@@ -1,5 +1,3 @@
-# agile-principles-with-scrum
-
 # Practicing the Agile philosopy by using Scrum methodology.
 # Scrum Roles
   - Product Owner (Interact with Stackholder & manage product backlog to maximize the business value.)
